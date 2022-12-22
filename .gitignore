@@ -1,0 +1,3 @@
+# Ignore .next cache files
+frontend/.next
+frontend/node_modules
